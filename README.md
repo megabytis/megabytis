@@ -2,14 +2,6 @@
   <img src="assets/megabytis.png" alt="Miku Banner" style="width:100%;" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&pause=1000&center=true&vCenter=true&width=480&lines=Miku+⚡;Backend+Dev+in+Progress;Code+%7C+Create+%7C+Collaborate" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0affef&height=110&section=header&text=Hello%2C%20World!%20👾&fontAlign=50&fontColor=ffffff&fontSize=24" />
-</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/madhusudan-bhukta">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
