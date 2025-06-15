@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="assets/megabytis.png" alt="Miku Banner"
-    style="width: 100%; max-height: 220px; object-fit: cover; border-radius: 8px;"/>
+    style="width: 100%; max-height: 100px; object-fit: cover; border-radius: 8px;"/>
 </p>
 
 <br>
