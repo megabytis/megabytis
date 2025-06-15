@@ -1,108 +1,103 @@
-<!-- Retro-Tech Terminal-Style GitHub README -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<p align="center">
-  <img src="assets/megabytis.png" width="100%" alt="Banner" />
-</p>
+<h1><b>Yo, I'm </b><a href="https://github.com/megabytis">Miku ⚡</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
-<h1 align="center"><code>Hi there 👋, I'm Miku ⚡</code></h1>
+<img src="https://copilot.microsoft.com/shares/KBmqBdav2RRXepdHw5zpi" alt="Miku Banner" width="100%" />
 
-<p align="center">
-  <i>Backend Dev in Progress · Node.js | MongoDB | C++ · Obsessed with clean code & terminal aesthetics</i>
-</p>
+<br>
+
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;***About me***
+
+<img align="right" width="200px" alt="Hack Mode" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
+
+I’m a **BCA student** with a backend heart and a frontend spirit. Proudly Tier-3 raised, self-driven, and code-obsessed. Currently solving problems one repo at a time with `Node.js`, `MongoDB`, `C++`, and `JavaScript`.  
+- 🔁 Building real-world CRUD apps with MERN  
+- 🔐 Learning full-on JWT Auth and API security  
+- 🤝 Open to cool collabs, OSS contributions, and internship gigs  
+- 🎮 Gamer logic meets backend thinking  
+- ☕ Runs on chai and Git pushes  
+- 📫 Contact: <a href="mailto:madhusudan.bhukta.official@gmail.com">madhusudan.bhukta.official@gmail.com</a>
 
 ---
 
-<details open>
-  <summary><b>💻 About Me</b></summary>
-  <div style="padding: 10px; margin-top: 8px;">
-  
-  ```bash
-  🎓 Currently:    BCA Student, 2nd Semester
-  💡 Learning:     Node.js | REST APIs | JWT Auth
-  💼 Goal:         Internship-Ready by 2026
-  🔄 Focus:        Clean backend logic & real-world builds
-  ```
+<!-- Terminal Skills Section -->
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">&nbsp; ***Skills***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+###### Languages & Logic:
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+###### Backend:
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+
+###### Tools & Deployment:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+<!-- Project Section -->
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Featured Projects***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<table>
+<tr>
+<td width="50%">
+  <h3 align="center">Piggy Paradise 🐖</h3>
+  <div align="center">
+    <a href="https://github.com/megabytis/piggy-paradise">
+      <img src="https://user-images.githubusercontent.com/79502633/273430823-4a9a250b-4d2c-4a49-8617-fc12716c3e8e.png" width="90%" />
+    </a><br/>
+    <a href="https://piggy-paradise.vercel.app/">
+      <img src="https://img.shields.io/badge/Live Demo-blue?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
   </div>
-</details>
+  <p align="center">A quirky clicker game built with vanilla JS & DOM sorcery.</p>
+</td>
+<td width="50%">
+  <h3 align="center">Guess the Number 🎯</h3>
+  <div align="center">
+    <a href="https://github.com/megabytis/Guess-The-Number">
+      <img src="https://user-images.githubusercontent.com/79502633/273431218-6712587c-4f7b-4a14-a542-8707b49d01e5.png" width="90%" />
+    </a><br/>
+    <a href="https://megabytis.github.io/Guess-The-Number/">
+      <img src="https://img.shields.io/badge/Play Now-green?style=for-the-badge&logo=githubpages&logoColor=white" />
+    </a>
+  </div>
+  <p align="center">A minimal JS puzzle — guess, reset, replay. Simple & clean.</p>
+</td>
+</tr>
+</table>
 
 ---
 
-<details open>
-  <summary><b>🛠️ Toolbox</b></summary>
+<!-- GitHub Stats Section -->
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30">&nbsp;***GitHub Stats***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=megabytis&show_icons=true&theme=tokyonight" />
   <br/>
-
-  ```bash
-  > Languages:    JavaScript, C++
-  > Backend:      Node.js, Express
-  > Database:     MongoDB
-  > Frontend:     HTML5, CSS3
-  > Tools:        Git, GitHub, Postman, Vercel
-  ```
-</details>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=megabytis&theme=tokyonight" />
+</p>
 
 ---
 
-<details open>
-  <summary><b>🚀 Projects</b></summary>
-  <div style="padding: 12px;">
-  
-  🔹 <b>Piggy Paradise</b>  
-  <sub>A quirky clicker game for DOM practice</sub><br/>
-  🔗 [Live](https://piggy-paradise.vercel.app/) · [Repo](https://github.com/megabytis/piggy-paradise)
-
-  <br/><br/>
-
-  🔹 <b>Guess The Number</b>  
-  <sub>A classic logic puzzle in JS with minimal UI</sub><br/>
-  🔗 [Play it](https://megabytis.github.io/Guess-The-Number/) · [Repo](https://github.com/megabytis/Guess-The-Number)
-
-  <br/><br/>
-  🧪 Full-stack MERN projects launching soon...
-  </div>
-</details>
+<!-- Social Icons -->
+<div align="center">
+  <a href="mailto:madhusudan.bhukta.official@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
+  <a href="https://www.linkedin.com/in/madhusudan-bhukta"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
+  <a href="https://x.com/rwar_star"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
+</div>
 
 ---
 
-<details open>
-  <summary><b>🔧 GitHub Stats</b></summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=megabytis&show_icons=true&theme=tokyonight" />
-    <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=megabytis&theme=tokyonight" />
-  </p>
-</details>
-
----
-
-<details open>
-  <summary><b>📬 Reach Me</b></summary>
-  <div align="center" style="margin-top: 8px;">
-    <a href="https://www.linkedin.com/in/madhusudan-bhukta">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
-    </a>
-    &nbsp;
-    <a href="https://x.com/rwar_star">
-      <img src="https://img.shields.io/badge/Twitter-X-black?style=flat-square&logo=twitter" />
-    </a>
-  </div>
-</details>
-
----
-
-<details open>
-  <summary><b>🧩 Fun Bytes</b></summary>
-
-  ```markdown
-  🧠 Code brain > Sleep brain
-  🎮 Game dev logic unlocked my love for backend
-  🧃 Favorite fuel: Code + Chai + Chill beats
-  🧪 Motto: Build it. Break it. Learn loud.
-  ```
-</details>
-
----
-
+<!-- Footer -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=“Don’t+wait+to+feel+ready.”;Just+build+with+what+you+have+today." />
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" />
 </p>
