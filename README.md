@@ -1,5 +1,5 @@
 <h1 align="center">Miku ⚡</h1>
-<h3 align="center">Backend-focused Dev in Progress | JavaScript • Node.js • MongoDB | DSA with C++</h3>
+<h3 align="center">Backend-Focused Dev in Progress | JavaScript • Node.js • MongoDB | DSA with C++</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/madhusudan-bhukta">
@@ -12,43 +12,56 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Who’s Miku?
 
-- 🎓 2nd Sem BCA Student @ Tier-3 College  
-- 🛠️ Grinding: DSA in C++ | Web Dev in JS | Backend with Node.js  
-- 🧠 Self-taught & building in public  
-- 🎯 Focus: Internship-ready backend/full-stack dev by 2026  
-- 🔍 Obsessed with writing clean code, solving real problems & getting noticed the *smart* way
+- 🎓 2nd Semester BCA student at a Tier-3 college  
+- 🧠 Self-taught dev, learning in public and leveling up daily  
+- ⚙️ Focused on DSA in C++, Web Development, and Backend with Node.js  
+- 🚀 Goal: Internship-ready backend/full-stack dev by 2026  
+- 🔍 Obsessed with writing clean, efficient code & solving real-world problems
 
 ---
 
-### 🚀 Skills & Tech Stack
+### 🧰 Tech Toolbox
 
-**Languages & Tools:**  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+**Languages:**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Web Stuff:**  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Backend & DB:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
 ### 🧪 Projects
 
 **🕹️ [Piggy Paradise](https://github.com/megabytis/piggy-paradise)**  
-Idle clicker game to test frontend interactions. Built using HTML, CSS, JS.  
+Idle clicker game showcasing DOM manipulation and frontend skills  
 🔗 [Live Demo](https://piggy-paradise.vercel.app/)
 
-**🎲 [Guess The Number](https://github.com/megabytis/Guess-The-Number)**  
-Classic number-guessing game using Vanilla JS logic.  
+**🎯 [Guess The Number](https://github.com/megabytis/Guess-The-Number)**  
+Classic guessing game with Vanilla JS  
 🔗 [Play it](https://megabytis.github.io/Guess-The-Number/)
 
-📌 *More (and bigger) projects coming soon — including full-stack ones.*
+📌 *More full-stack & backend-focused builds on the way—stay tuned!*
 
 ---
 
-### 📈 GitHub Stats
+### 📚 Currently Learning
+
+- JWT Authentication  
+- Express.js & REST APIs  
+- Git & GitHub workflows  
+- Project deployment with Vercel  
+
+---
+
+### 🔧 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=megabytis&show_icons=true&theme=tokyonight" />
@@ -60,12 +73,18 @@ Classic number-guessing game using Vanilla JS logic.
 
 ---
 
-### 📅 What's Next?
+### 📌 What’s Next?
 
-- 🔧 Building a MERN CRUD app from scratch  
-- 🎓 Leveling up backend skills + deployment  
-- 📬 Always open to collab or mentorship  
-- 📢 Portfolio site + Dev blog coming soon
+- 👨‍🏭 Building & shipping a MERN CRUD app  
+- 🔧 Getting hands-on with backend deployments  
+- 💬 Looking for open-source collabs, internships, and mentorship  
+- 🛠️ Launching a personal portfolio + dev blog
+
+---
+
+### 💬 Dev Superpower
+
+> *"Turning caffeine into scalable backend architecture."*
 
 ---
 
