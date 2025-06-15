@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="https://copilot.microsoft.com/shares/KBmqBdav2RRXepdHw5zpi" alt="Miku Banner" style="width:100%;" />
+  <img src="assets/megabytis.png" alt="Miku Banner" style="width:100%;" />
 </p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&pause=1000&center=true&vCenter=true&width=480&lines=Miku+⚡;Backend+Dev+in+Progress;Code+%7C+Create+%7C+Collaborate" alt="Typing SVG" />
-</h1>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&pause=1000&center=true&vCenter=true&width=480&lines=Miku+⚡;Backend+Dev+in+Progress;Code+%7C+Create+%7C+Collaborate" alt="Typing SVG" />
