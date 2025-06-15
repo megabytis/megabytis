@@ -51,7 +51,7 @@ I’m a **BCA student** with a backend heart and a frontend spirit. Proudly Tier
   <h3 align="center">Piggy Paradise 🐖</h3>
   <div align="center">
     <a href="https://github.com/megabytis/piggy-paradise">
-      <img src="ui.png" width="90%" />
+      <img src="assets/ui.png" width="90%" />
     </a><br/>
     <a href="https://piggy-paradise.vercel.app/">
       <img src="https://img.shields.io/badge/Live Demo-blue?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -63,7 +63,7 @@ I’m a **BCA student** with a backend heart and a frontend spirit. Proudly Tier
   <h3 align="center">Guess the Number 🎯</h3>
   <div align="center">
     <a href="https://github.com/megabytis/Guess-The-Number">
-      <img src="gameplay.png" width="90%" />
+      <img src="assets/gameplay.png" width="90%" />
     </a><br/>
     <a href="https://megabytis.github.io/Guess-The-Number/">
       <img src="https://img.shields.io/badge/Play Now-green?style=for-the-badge&logo=githubpages&logoColor=white" />
