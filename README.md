@@ -16,7 +16,7 @@ I’m a **BCA student** with a backend heart and a frontend spirit. Proudly Tier
 - 🤝 Open to cool collabs, OSS contributions, and internship gigs  
 - 🎮 Gamer logic meets backend thinking  
 - ☕ Runs on chai and Git pushes  
-- 📫 Contact: <a href="mailto:madhusudan.bhukta.official@gmail.com">madhusudan.bhukta.official@gmail.com</a>
+- 📫 Contact: <a href="warinmystar@gmail.com">warinmystar@gmail.com</a>
 
 ---
 
