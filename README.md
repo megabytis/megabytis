@@ -58,43 +58,14 @@ I'm a **BCA student** passionate about backend development and system design. My
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **Featured Projects**
+  ## 🚀 Projects
 
 <div align="center">
-  
-### 🐖 Piggy Paradise
-[![Piggy Paradise](assets/ui.png)](https://piggy-paradise.vercel.app/)
-<p>Vanilla JS clicker game with progressive difficulty</p>
-<a href="https://github.com/megabytis/piggy-paradise">
-  <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://piggy-paradise.vercel.app/">
-  <img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
 
-<br>
-
-### 🎯 Guess the Number
-[![Guess the Number](assets/gameplay.png)](https://megabytis.github.io/Guess-The-Number/)
-<p>Minimal number guessing game with DOM manipulation</p>
-<a href="https://github.com/megabytis/Guess-The-Number">
-  <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://megabytis.github.io/Guess-The-Number/">
-  <img src="https://img.shields.io/badge/Play_Now-4BC51D?style=for-the-badge&logo=githubpages&logoColor=white">
-</a>
-
-<br>
-
-### 💸 MoneyFlow Bank
-[![MoneyFlow](assets/usr_account.png)](https://moneyflow-app.vercel.app/)
-<p>Banking simulation with transaction history</p>
-<a href="https://github.com/megabytis/moneyflow-app">
-  <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://moneyflow-app.vercel.app/">
-  <img src="https://img.shields.io/badge/Try_It-000?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
+| Preview | Details |
+|---------|---------|
+| [![Piggy Paradise](assets/ui_thumb.png)](https://piggy-paradise.vercel.app/) | **🐖 Piggy Paradise**<br>Clicker game with vanilla JS<br>[![Code](https://img.shields.io/badge/-Code-181717?logo=github)](https://github.com/megabytis/piggy-paradise) [![Live](https://img.shields.io/badge/-Demo-000?logo=vercel)](https://piggy-paradise.vercel.app/) |
+| [![Guess the Number](assets/gameplay_thumb.png)](https://megabytis.github.io/Guess-The-Number/) | **🎯 Guess the Number**<br>DOM manipulation practice<br>[![Code](https://img.shields.io/badge/-Code-181717?logo=github)](https://github.com/megabytis/Guess-The-Number) [![Play](https://img.shields.io/badge/-Play-4BC51D?logo=githubpages)](https://megabytis.github.io/Guess-The-Number/) |
 
 </div>
 
