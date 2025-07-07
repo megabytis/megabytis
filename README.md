@@ -58,14 +58,57 @@ I'm a **BCA student** passionate about backend development and system design. My
 
 <br>
 
-  ## 🚀 Projects
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> **Featured Projects**
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
-| Preview | Details |
-|---------|---------|
-| [![Piggy Paradise](assets/ui_thumb.png)](https://piggy-paradise.vercel.app/) | **🐖 Piggy Paradise**<br>Clicker game with vanilla JS<br>[![Code](https://img.shields.io/badge/-Code-181717?logo=github)](https://github.com/megabytis/piggy-paradise) [![Live](https://img.shields.io/badge/-Demo-000?logo=vercel)](https://piggy-paradise.vercel.app/) |
-| [![Guess the Number](assets/gameplay_thumb.png)](https://megabytis.github.io/Guess-The-Number/) | **🎯 Guess the Number**<br>DOM manipulation practice<br>[![Code](https://img.shields.io/badge/-Code-181717?logo=github)](https://github.com/megabytis/Guess-The-Number) [![Play](https://img.shields.io/badge/-Play-4BC51D?logo=githubpages)](https://megabytis.github.io/Guess-The-Number/) |
+<div style="flex: 1; min-width: 300px; max-width: 350px;">
+  <a href="https://piggy-paradise.vercel.app/">
+    <img src="assets/ui_thumb.png" alt="Piggy Paradise" style="border-radius: 8px; width: 100%; height: 180px; object-fit: cover;">
+  </a>
+  <h3>🐖 Piggy Paradise</h3>
+  <p>Vanilla JS clicker game with progressive scaling</p>
+  <div>
+    <a href="https://github.com/megabytis/piggy-paradise">
+      <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+    <a href="https://piggy-paradise.vercel.app/">
+      <img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white">
+    </a>
+  </div>
+</div>
+
+<div style="flex: 1; min-width: 300px; max-width: 350px;">
+  <a href="https://megabytis.github.io/Guess-The-Number/">
+    <img src="assets/gameplay_thumb.png" alt="Guess the Number" style="border-radius: 8px; width: 100%; height: 180px; object-fit: cover;">
+  </a>
+  <h3>🎯 Guess the Number</h3>
+  <p>Interactive number guessing game with score tracking</p>
+  <div>
+    <a href="https://github.com/megabytis/Guess-The-Number">
+      <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+    <a href="https://megabytis.github.io/Guess-The-Number/">
+      <img src="https://img.shields.io/badge/Play_Now-4BC51D?style=for-the-badge&logo=githubpages&logoColor=white">
+    </a>
+  </div>
+</div>
+
+<div style="flex: 1; min-width: 300px; max-width: 350px;">
+  <a href="https://moneyflow-app.vercel.app/">
+    <img src="assets/usr_account_thumb.png" alt="MoneyFlow" style="border-radius: 8px; width: 100%; height: 180px; object-fit: cover;">
+  </a>
+  <h3>💸 MoneyFlow</h3>
+  <p>Banking simulation with transaction history</p>
+  <div>
+    <a href="https://github.com/megabytis/moneyflow-app">
+      <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+    <a href="https://moneyflow-app.vercel.app/">
+      <img src="https://img.shields.io/badge/Try_It-000?style=for-the-badge&logo=vercel&logoColor=white">
+    </a>
+  </div>
+</div>
 
 </div>
 
