@@ -76,6 +76,18 @@ I’m a **BCA student** with a backend heart and a frontend spirit. Proudly Tier
   </div>
   <p align="center">A minimal JS puzzle — guess, reset, replay. Simple & clean.</p>
 </td>
+  <td width="50%">
+  <h3 align="center">💸 MoneyFlow - Mini Bank Web App</h3>
+  <div align="center">
+    <a href="https://github.com/megabytis/moneyflow-app">
+      <img src="assets/usr_account.png" width="90%" />
+    </a><br/>
+    <a href="https://moneyflow-app.vercel.app/">
+      <img src="https://img.shields.io/badge/Play Now-green?style=for-the-badge&logo=githubpages&logoColor=white" />
+    </a>
+  </div>
+  <p align="center">A sleek, responsive, and interactive JavaScript-based mini bank application.</p>
+</td>
 </tr>
 </table>
 
