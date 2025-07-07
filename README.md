@@ -58,54 +58,57 @@ I'm a **BCA student** passionate about backend development and system design. My
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> **Featured Projects**
+## 🚀 Featured Projects
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
 
-<div style="flex: 1; min-width: 300px; max-width: 350px;">
+<!-- Project 1 -->
+<div style="background: rgba(255,255,255,0.03); border-radius: 12px; padding: 1.5rem; border: 1px solid rgba(255,255,255,0.1);">
   <a href="https://piggy-paradise.vercel.app/">
-    <img src="assets/ui_thumb.png" alt="Piggy Paradise" style="border-radius: 8px; width: 100%; height: 180px; object-fit: cover;">
+    <img src="assets/ui.webp" alt="Piggy Paradise" style="border-radius: 8px; width: 100%; height: 160px; object-fit: cover; border: 1px solid rgba(255,255,255,0.1);">
   </a>
-  <h3>🐖 Piggy Paradise</h3>
-  <p>Vanilla JS clicker game with progressive scaling</p>
-  <div>
-    <a href="https://github.com/megabytis/piggy-paradise">
-      <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white">
+  <h3 style="margin: 1rem 0 0.5rem;">🐷 Piggy Paradise</h3>
+  <p style="color: #aaa; margin-bottom: 1rem; font-size: 0.9rem;">Clicker game with vanilla JS and progressive scaling</p>
+  <div style="display: flex; gap: 0.5rem;">
+    <a href="https://github.com/megabytis/piggy-paradise" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white">
     </a>
-    <a href="https://piggy-paradise.vercel.app/">
-      <img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white">
+    <a href="https://piggy-paradise.vercel.app/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Live_Demo-9146FF?style=for-the-badge&logo=vercel&logoColor=white">
     </a>
   </div>
 </div>
 
-<div style="flex: 1; min-width: 300px; max-width: 350px;">
+<!-- Project 2 -->
+<div style="background: rgba(255,255,255,0.03); border-radius: 12px; padding: 1.5rem; border: 1px solid rgba(255,255,255,0.1);">
   <a href="https://megabytis.github.io/Guess-The-Number/">
-    <img src="assets/gameplay_thumb.png" alt="Guess the Number" style="border-radius: 8px; width: 100%; height: 180px; object-fit: cover;">
+    <img src="assets/gameplay.webp" alt="Guess the Number" style="border-radius: 8px; width: 100%; height: 160px; object-fit: cover; border: 1px solid rgba(255,255,255,0.1);">
   </a>
-  <h3>🎯 Guess the Number</h3>
-  <p>Interactive number guessing game with score tracking</p>
-  <div>
-    <a href="https://github.com/megabytis/Guess-The-Number">
-      <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white">
+  <h3 style="margin: 1rem 0 0.5rem;">🔢 Guess the Number</h3>
+  <p style="color: #aaa; margin-bottom: 1rem; font-size: 0.9rem;">Interactive number guessing game with DOM manipulation</p>
+  <div style="display: flex; gap: 0.5rem;">
+    <a href="https://github.com/megabytis/Guess-The-Number" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white">
     </a>
-    <a href="https://megabytis.github.io/Guess-The-Number/">
+    <a href="https://megabytis.github.io/Guess-The-Number/" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Play_Now-4BC51D?style=for-the-badge&logo=githubpages&logoColor=white">
     </a>
   </div>
 </div>
 
-<div style="flex: 1; min-width: 300px; max-width: 350px;">
+<!-- Project 3 -->
+<div style="background: rgba(255,255,255,0.03); border-radius: 12px; padding: 1.5rem; border: 1px solid rgba(255,255,255,0.1);">
   <a href="https://moneyflow-app.vercel.app/">
-    <img src="assets/usr_account_thumb.png" alt="MoneyFlow" style="border-radius: 8px; width: 100%; height: 180px; object-fit: cover;">
+    <img src="assets/usr_account.webp" alt="MoneyFlow" style="border-radius: 8px; width: 100%; height: 160px; object-fit: cover; border: 1px solid rgba(255,255,255,0.1);">
   </a>
-  <h3>💸 MoneyFlow</h3>
-  <p>Banking simulation with transaction history</p>
-  <div>
-    <a href="https://github.com/megabytis/moneyflow-app">
-      <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white">
+  <h3 style="margin: 1rem 0 0.5rem;">💸 MoneyFlow</h3>
+  <p style="color: #aaa; margin-bottom: 1rem; font-size: 0.9rem;">Banking simulation with transaction history</p>
+  <div style="display: flex; gap: 0.5rem;">
+    <a href="https://github.com/megabytis/moneyflow-app" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white">
     </a>
-    <a href="https://moneyflow-app.vercel.app/">
-      <img src="https://img.shields.io/badge/Try_It-000?style=for-the-badge&logo=vercel&logoColor=white">
+    <a href="https://moneyflow-app.vercel.app/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Try_Now-000000?style=for-the-badge&logo=vercel&logoColor=white">
     </a>
   </div>
 </div>
