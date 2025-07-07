@@ -60,11 +60,43 @@ I'm a **BCA student** passionate about backend development and system design. My
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **Featured Projects**
 
-| Project | Description | Tech Stack | Live Demo |
-|---------|-------------|------------|-----------|
-| **[Piggy Paradise](https://github.com/megabytis/piggy-paradise)** | Interactive clicker game with progressive difficulty | Vanilla JS, HTML5, CSS3 | [Live Demo](https://piggy-paradise.vercel.app/) |
-| **[Guess the Number](https://github.com/megabytis/Guess-The-Number)** | Minimal number guessing game with score tracking | JavaScript, DOM Manipulation | [Play Now](https://megabytis.github.io/Guess-The-Number/) |
-| **[MoneyFlow](https://github.com/megabytis/moneyflow-app)** | Banking simulation with transaction history | JavaScript, LocalStorage | [Try It](https://moneyflow-app.vercel.app/) |
+<div align="center">
+  
+### 🐖 Piggy Paradise
+[![Piggy Paradise](assets/ui.png)](https://piggy-paradise.vercel.app/)
+<p>Vanilla JS clicker game with progressive difficulty</p>
+<a href="https://github.com/megabytis/piggy-paradise">
+  <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://piggy-paradise.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+<br>
+
+### 🎯 Guess the Number
+[![Guess the Number](assets/gameplay.png)](https://megabytis.github.io/Guess-The-Number/)
+<p>Minimal number guessing game with DOM manipulation</p>
+<a href="https://github.com/megabytis/Guess-The-Number">
+  <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://megabytis.github.io/Guess-The-Number/">
+  <img src="https://img.shields.io/badge/Play_Now-4BC51D?style=for-the-badge&logo=githubpages&logoColor=white">
+</a>
+
+<br>
+
+### 💸 MoneyFlow Bank
+[![MoneyFlow](assets/usr_account.png)](https://moneyflow-app.vercel.app/)
+<p>Banking simulation with transaction history</p>
+<a href="https://github.com/megabytis/moneyflow-app">
+  <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://moneyflow-app.vercel.app/">
+  <img src="https://img.shields.io/badge/Try_It-000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+</div>
 
 <br>
 
