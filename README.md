@@ -59,7 +59,7 @@ Your biggest flex. Production-ready.
 - Deployed on **Render + Vercel**
 
 <div style="margin-bottom: 1rem;">
-  <img src="assets/shopnexus_cover.png" width="100%" style="border-radius: 10px;">
+  <img src="assets/shopnexus.gif" width="100%" style="border-radius: 10px;">
 </div>
 
 [![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github)](https://github.com/megabytis/ShopNexus)
@@ -72,7 +72,7 @@ Your biggest flex. Production-ready.
 - Clean backend + modern UI
 
 <div style="margin-bottom: 1rem;">
-  <img src="assets/blogwebapp_banner.png" width="100%" style="border-radius: 10px;">
+  <img src="assets/blog-webapp.gif" width="100%" style="border-radius: 10px;">
 </div>
 
 [![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github)](YOUR_BLOG_APP_REPO)
@@ -85,7 +85,7 @@ Your biggest flex. Production-ready.
 - Authentication + real-time logic (if used)
 
 <div style="margin-bottom: 1rem;">
-  <img src="assets/devtinder_cover.png" width="100%" style="border-radius: 10px;">
+  <img src="assets/devtinder.gif" width="100%" style="border-radius: 10px;">
 </div>
 
 [![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github)](YOUR_DEVTINDER_REPO)
