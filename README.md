@@ -76,7 +76,7 @@ Your biggest flex. Production-ready.
 </div>
 
 [![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github)](YOUR_BLOG_APP_REPO)
-[![Live](https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel)](YOUR_BLOG_APP_LIVE_LINK)
+[![Live](https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel)](https://blog-web-app-psi.vercel.app/)
 
 <br>
 
@@ -89,7 +89,7 @@ Your biggest flex. Production-ready.
 </div>
 
 [![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github)](YOUR_DEVTINDER_REPO)
-[![Live](https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel)](YOUR_DEVTINDER_LIVE_LINK)
+[![Live](https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel)](https://dev-tinder-web-app-six.vercel.app/)
 
 <br>
 
