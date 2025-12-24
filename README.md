@@ -101,7 +101,7 @@
 </div>
 
 [![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github)](https://github.com/megabytis/devTinder-WebApp)
-[![Live](https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel)](https://dev-tinder-web-app-six.vercel.app/)
+[![Live](https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel)](https://dev-tinder-web-app-gray.vercel.app/)
 
 <br>
 
