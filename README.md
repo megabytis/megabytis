@@ -145,7 +145,7 @@
   <a href="https://madhusudan-portfolio-jade.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://x.com/rwar_star">
+  <a href="https://x.com/MBhukta_04">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </div>
