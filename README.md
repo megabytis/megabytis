@@ -65,6 +65,10 @@
 - Deployed directly to a dedicated **AWS EC2** instance with custom domain mapping (`kyh.bhuktatech.in`), Nginx reverse proxying, and SSL encryption (Certbot).
 - Implemented multi-day user session persistence using LangGraph checkpointing layers synced with MongoDB Atlas to track and evaluate behavioral nutrition trends over a 30-day window.
 
+<div style="margin-bottom: 1rem;">
+  <img src="https://raw.githubusercontent.com/megabytis/project-kyh/main/assets/demo.gif" width="100%" style="border-radius: 10px;">
+</div>
+
 [![Live System](https://img.shields.io/badge/Live_System-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://kyh.bhuktatech.in/)
 [![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github)](https://github.com/megabytis/project-kyh)
 
@@ -84,8 +88,8 @@
   <img src="assets/shopnexus.gif" width="100%" style="border-radius: 10px;">
 </div>
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shop-nexus-beta.vercel.app)
 [![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github)](https://github.com/megabytis/shopnexus)
-[![Live](https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel)](https://shop-nexus-beta.vercel.app)
 
 <br>
 
@@ -112,8 +116,8 @@
   <img src="assets/learnsphere.gif" width="100%" style="border-radius: 10px;">
 </div>
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://learn-sphere-neon.vercel.app)
 [![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github)](https://github.com/megabytis/LearnSphere)
-[![Live](https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel)](https://learn-sphere-neon.vercel.app)
 
 <br>
 
@@ -145,7 +149,7 @@
   <a href="https://madhusudan-portfolio-jade.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://x.com/MBhukta_04">
+  <a href="https://x.com/rwar_star">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </div>
