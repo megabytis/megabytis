@@ -66,7 +66,7 @@
 - Implemented multi-day user session persistence using LangGraph checkpointing layers synced with MongoDB Atlas to track and evaluate behavioral nutrition trends over a 30-day window.
 
 <div style="margin-bottom: 1rem;">
-  <img src="https://raw.githubusercontent.com/megabytis/project-kyh/main/assets/demo.gif" width="100%" style="border-radius: 10px;">
+  <img src="assets/project-kyh.gif" width="100%" style="border-radius: 10px;">
 </div>
 
 [![Live System](https://img.shields.io/badge/Live_System-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://kyh.bhuktatech.in/)
